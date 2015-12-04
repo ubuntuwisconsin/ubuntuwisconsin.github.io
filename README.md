@@ -1,2 +1,4 @@
 # ubuntuwisconsin.github.io
-A website for the Ubuntu Wisconsin LoCo
+This is the website for the Ubuntu US Wisconsin LoCo Team.
+
+Check out our wiki page for more details on the team: https://wiki.ubuntu.com/WisconsinTeam
