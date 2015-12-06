@@ -8,8 +8,10 @@ tr {
 }
 
 #navBar {
-    height: 20px;
+    height: 25px;
     width: 100px;
+    color: #eeeeee;
+    font-weight: normal;
 }
 
 a {
