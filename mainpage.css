@@ -1,3 +1,16 @@
 body {
     font-family: 'Ubuntu', sans-serif;
 }
+
+tr {
+    float: left;
+}
+
+#navBar {
+    height: 20px;
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+}
