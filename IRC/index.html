@@ -72,5 +72,95 @@
             After this, just say hello!
             We don't bite! :)
         </p>
+        <h4>
+            Long Term IRC Usage
+        </h4>
+        <p>
+            As much as we would like you to use this IRC client, in the long run, it isn't efficient.
+            So below are several guides on how you can move forward depending on what you use on a daily basis.
+        </p>
+        <h5>
+            Only an Ubuntu (or flavor) computer
+        </h5>
+        <p>
+            Since this is assuming that you will have regular terminal access, this will show you how to get tmux and irssi set up on a shell account for an idling setup.
+            This is useful for when people need to speak to you, as they can just leave a message and you can get back to them when you have the time.
+            Just a note, this shell <em>will</em> detect if you try to make multiple accounts and it will shut down all shell services.
+            So please, only make one shell account.
+        </p>
+        <ol>
+            <li>
+                Go to <a style="color: blue;" href="https://www.xshellz.com/signup">xshellz.com/signup</a>, fill out the form, and click <code>Create shell</code>.
+                For usage, you should put something like "IRC idling setup".
+                Please use the same username as IRC.
+                In the future, when I specify NICK, this is the nick(username) you use.
+            </li>
+            <li>
+                The previous step should bring you to a page titled <code>Shell Panel</code>.
+                Click on the manage <b>button</b> on the table.
+            </li>
+            <li>
+                Scroll down, check <code>I have a password</code>, type in your password, and click start.
+            </li>
+            <li>
+                Type <code>!approval</code> and press Enter.
+                Wait until the bot reacts.
+            </li>
+            <li>
+                Type <code>!approve NICK</code> and press Enter.
+                Wait until the bot reacts.
+            </li>
+            <li>
+                After you get started with this, every week you need to go to #xshellz and send this to the channel: <code>!keep NICK</code>
+            </li>
+            <li>
+                Refresh the page and click the Manage button again.
+            </li>
+            <li>
+                Open a terminal by pressing <code>Ctrl + Alt + T</code>.
+            </li>
+            <li>
+                In the terminal, type <code>ssh USERNAME@shell.xShellz.com</code> and press Enter.
+            </li>
+            <li>
+                Look at the panel for your password.
+                Type that password in now.
+            </li>
+            <li>
+                After you are logged in, type <code>tmux</code> and press Enter.
+            </li>
+            <li>
+                Type <code>irssi</code> and press Enter.
+            </li>
+            <li>
+                Type <code>/SERVER ADD -auto -network Freenode irc.freenode.net 6667 IRCPASSWORD</code> and press Enter.
+            </li>
+            <li>
+                Make sure all other IRC clients are closed (refresh this page to log out of IRC).
+            </li>
+            <li>
+                In irssi, type <code>/exit</code> and press Enter.
+            </li>
+            <li>
+                Type <code>irssi</code> and press Enter.
+            </li>
+            <li>
+                Now, you can type <code>/CHANNEL ADD -auto #CHANNELNAME Freenode</code> then <code>/join #CHANNELNAME</code> to join any channel you would like.
+                Our channel is #ubuntu-us-wi, so do <code>/CHANNEL ADD -auto #ubuntu-us-wi Freenode</code> then <code>/join #ubuntu-us-wi</code>.
+            </li>
+            <li>
+                Read the <a style="color: blue;" href="http://irssi.org/beginner/">Irssi Startup HOWTO</a>.
+            </li>
+            <li>
+                To exit your IRC client for the day, to shut down your computer, do <code>Ctrl + B</code> and then <code>D</code>.
+                You can then close the terminal window.
+                To get back into the IRC client, do steps 8-10, and then type <code>tmux attach</code>.
+            </li>
+        </ol>
+        <p>
+            Congrats!
+            You now have an IRC client!
+            If you encounter any trouble, use the IRC client above, join our channel, and we will help you from there.
+        </p>
     </body>
 </html>
