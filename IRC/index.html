@@ -6,38 +6,15 @@
         <link rel="stylesheet" type="text/css" href="../mainpage.css">
         <link rel="shortcut icon" type="image/png" href="../favicon64.png" />
         <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script>
+        $(function(){
+            $("#navBardiv").load("../navbar/lv2.html");
+        });
+        </script>
     </head>
     <body>
-        <nav>
-            <table bgcolor="#dd4814" width="100%">
-                <tr>
-                    <th>
-                        <a href><img src="../logolarge.png" height="52px" width="346px" /></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href="../AboutUbuntu/"><h2 width="250px" id="navBar">What is Ubuntu?</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href="../Flavors/"><h2 width="100px" id="navBar">Flavors</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href><h2 width="100px" id="navBar">IRC</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                </tr>
-            </table>
-        </nav>
+        <div id="navBardiv"></div>
         <iframe src="https://kiwiirc.com/client/irc.freenode.net/?nick=locoguest|?#ubuntu-us-wi" style="border:0; width:100%; height:450px;"></iframe>
         <p>
             Above is an IRC client.

@@ -6,38 +6,15 @@
         <link rel="stylesheet" type="text/css" href="mainpage.css">
         <link rel="shortcut icon" type="image/png" href="favicon64.png" />
         <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script>
+        $(function(){
+            $("#navBardiv").load("navbar/lv1.html");
+        });
+        </script>
     </head>
     <body>
-        <nav>
-            <table bgcolor="#dd4814" width="100%">
-                <tr>
-                    <th>
-                        <a href><img src="logolarge.png" height="52px" width="346px" /></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href="AboutUbuntu/"><h2 width="250px" id="navBar">What is Ubuntu?</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href="Flavors/"><h2 width="100px" id="navBar">Flavors</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                    <th>
-                        <a href="IRC/"><h2 width="100px" id="navBar">IRC</h2></a>
-                    </th>
-                    <th>
-                        <h2 style="color: white;">|</h2>
-                    </th>
-                </tr>
-            </table>
-        </nav>
+        <div id="navBardiv"></div>
         <img src="192x192.png" />
         <h1>This website is a work in progress</h1>
         <h2>To learn more about the Ubuntu US Wisconsin LoCo Team, click <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam">here</a>.</h2>
