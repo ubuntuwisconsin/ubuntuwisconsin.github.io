@@ -13,6 +13,7 @@
         </guid>
         <link>http://ubuntu-wisconsin.org/blog/2016/01/15/</link>
         <description>
+        <![CDATA[
             <h1>About the Ubuntu US Wisconsin Local Community Team</h1>
             <h3>by Simon Quigley (tsimonq2)</h3>
             <p>
@@ -87,6 +88,7 @@
                 He also fills in for Simon when Simon isn't available (which is rare).
                 He has provided a lot of valuable help to this team.
             </p>
+        ]]
         </description>
         <pubDate>Sat, 16 Jan 2016 03:00:00 GMT</pubDate>
         <author>sqawesome99@gmail.com (Simon Quigley)</author>
