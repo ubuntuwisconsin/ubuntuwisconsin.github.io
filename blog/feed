@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+    <title>Ubuntu US Wisconsin LoCo Team Blog</title>
+    <link>http://ubuntu-wisconsin.org/blog/</link>
+    <description>The official blog for the Ubuntu US Wisconsin LoCo Team</description>
+    <item>
+        <title>
+            About the Ubuntu US Wisconsin Local Community Team
+        </title>
+        <guid isPermaLink="false">
+            20161015
+        </guid>
+        <link>http://ubuntu-wisconsin.org/blog/2016/01/15/</link>
+        <description>
+        Test
+        </description>
+        <pubDate>Sat, 16 Jan 2016 03:00:00 GMT</pubDate>
+        <author>sqawesome99@gmail.com (Simon Quigley)</author>
+    </item>
+    </channel>
