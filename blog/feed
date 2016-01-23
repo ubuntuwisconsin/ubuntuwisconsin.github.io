@@ -4,6 +4,7 @@
         <title>Ubuntu US Wisconsin LoCo Team Blog</title>
         <link>http://ubuntu-wisconsin.org/blog/</link>
         <description>The official blog for the Ubuntu US Wisconsin LoCo Team</description>
+        <atom:link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml" />
         <item>
             <title>Tour of our Wiki Page</title>
             <link>http://ubuntu-wisconsin.org/blog/2016/01/20/</link>
@@ -163,6 +164,5 @@
             <pubDate>Sat, 16 Jan 2016 03:00:00 GMT</pubDate>
             <author>sqawesome99@gmail.com (Simon Quigley)</author>
         </item>
-        <atom:link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
