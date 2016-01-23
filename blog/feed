@@ -1,173 +1,164 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-    <title>Ubuntu US Wisconsin LoCo Team Blog</title>
-    <link>http://ubuntu-wisconsin.org/blog/</link>
-    <description>The official blog for the Ubuntu US Wisconsin LoCo Team</description>
-    <item>
-        <title>
-            Tour of our Wiki Page
-        </title>
-        <guid isPermaLink="false">
-            20161015
-        </guid>
-        <link>http://ubuntu-wisconsin.org/blog/2016/01/20/</link>
-        <description>
-        <![CDATA[
-        <h3>Post by Simon Quigley (tsimonq2)</h3>
-        <p>
-            We have set up a wiki page for existing members to use as a resource for doing LoCo related tasks.
-            This blog post is a walkthrough of the wiki page, and the resources we have in place.
-        </p>
-        <h2>
-            <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam">The main page</a>
-        </h2>
-        <p>
-            On the very top of the page are details about our next IRC and monthly meetings.
-            We also have other pages listed that I will describe in a bit.
-            In addition, we have brief information about our Local Community team.
-            <br />
-            <br />
-            After the top part, we have the <b>Joining</b>, <b>Events</b>, and <b>Meetings</b> headers.
-            Under the <b>Joining</b> header, we have a link to our NewMemberOrientation page, which I will describe in a bit.
-            Under the <b>Events</b> header, we have a link to the LoCo Portal that has our upcoming events.
-            At the time of writing this, we don't have any upcoming events, but once we do, it will go on the wiki page under his header.
-            Under the <b>Meetings</b> header, we have a link to the LoCo Portal that has our upcoming meetings.
-            A blog post will be written describing our meetings in the future, although if you would like to check that out and discover yourself, go ahead.
-            <br />
-            <br />
-            The final header on the wiki page is <b>Communication</b>.
-            This section has some useful resources that are occasionally used by our members.
-            It will get a little revamping after Alex finishes making some orange badges for Reddit and such.
-        </p>
-        <h2>
-            <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/MeetingAgendas">MeetingAgendas</a>
-        </h2>
-        <p>
-            On this page, we have Meeting Agendas.
-            Every monthly meeting we have, the meeting chair (usually myself) updates this page.
-            It just has the agendas, which will be explained in a future blog post.
-            Also, whenever we have a successful IRC meeting, the IRC logs go here.
-        </p>
-        <h2>
-            <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/NewMemberOrientation">NewMemberOrientation</a>
-        </h2>
-        <p>
-            This page is our (lowercase c) canonical resource for getting people started with our team.
-            It provides all of the information needed to be considered an official member.
-            It does need a bit of revising to strengthen the language and clarity (if you, the reader, feel inclined to take a look, by all means, go ahead), but this is the most solid resource we have.
-        </p>
-        <h2>
-            <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/QuickStart">QuickStart</a>
-        </h2>
-        <p>
-            This is currently a bare page, with a lot of work needed.
-            It is a huge concept I am working on with Alex.
-            More information to come.
-        </p>
-        <h2>
-            <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/TeamReports">TeamReports</a>
-        </h2>
-        <p>
-            This page is out of date.
-            We plan on keeping our team reports here, but since we haven't really had any major meetings besides the monthly meeting and some IRC meetings that more than just 2 people attend, it isn't large enough yet to make a good team report.
-            This will change in the future.
-        </p>
-        <br />
-        <p>
-            This concludes the walkthrough of our wiki page. If you have any questions/comments/concerns about this article or the wiki page, please contact tsimonq2 on Freenode or stop by #ubuntu-us-wi.
-        </p>
-        ]]>
-        </description>
-        <pubDate>Thu, 21 Jan 2016 01:00:00 GMT</pubDate>
-        <author>sqawesome99@gmail.com (Simon Quigley)</author>
-    </item>
-    <item>
-        <title>
-            About the Ubuntu US Wisconsin Local Community Team
-        </title>
-        <guid isPermaLink="false">
-            20161015
-        </guid>
-        <link>http://ubuntu-wisconsin.org/blog/2016/01/15/</link>
-        <description>
-        <![CDATA[
-            <h3>Post by Simon Quigley (tsimonq2)</h3>
-            <p>
-                This first blog post on behalf of the Ubuntu US Wisconsin LoCo Team is to explain some items about the team in general.
-                If you have any questions/comments/concerns about any of this, please contact tsimonq2 on IRC or stop by #ubuntu-us-wi on Freenode.
-            </p>
-            <h2>
-                Who leads the LoCo?
-            </h2>
-            <p>
-                Simon Quigley is the main coordinator, contact, and facilitative leader for the team.
-                Until the team grows a bit, he does the planning and execution of meetings and events for the team.
-                He was appointed the position from Anthony Hook, the previous leader, in mid-November 2015.
-            </p>
-            <h2>
-                How many active members do you have?
-            </h2>
-            <p>
-                In Launchpad, we have 21 members.
-                We have about 5-10 members who are very active, and a couple more who occasionally respond to threads on our Mailing List.
-                When a new member joins, they get a one year term, and then they have to renew. This helps eliminate anyone who isn't active any more.
-                A lot of the members were already there since the last bit of activity in 2012, but have stuck around.
-            </p>
-            <h2>
-                What do you use for a mailing list?
-            </h2>
-            <p>
-                Instead of using Ubuntu Mailing Lists, we use the Launchpad mailing list system.
-                This makes it much easier for new members to join the mailing list after joining the LoCo.
-                It is also easy to find if you can find our Launchpad page link.
-            </p>
-            <h2>
-                Are you on the Ubuntu Forums?
-            </h2>
-            <p>
-                We had a forum, but we voted to no longer use it due to the inactivity.
-                Since we have a few Reddit experts in our team, we decided to use Reddit in place of that.
-                Our subreddit is <a style="color: blue;" href="https://www.reddit.com/r/ubuntuwisconsinloco">/r/ubuntuwisconsinloco</a>.
-            </p>
-            <h2>
-                What other resources do you have established?
-            </h2>
-            <p>
-                <ul>
-                    <li><a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam">Wiki Page</a> - meant as a base for already existing members</li>
-                    <li><a style="color: blue;" href="https://launchpad.net/~ubuntu-us-wisconsin">Launchpad</a></li>
-                    <li><a style="color: blue;" href="http://ubuntu-wisconsin.org/">ubuntu-wisconsin.org</a> - The site you are currently on, a major work in progress, blog post to come</li>
-                    <li><a style="color: blue;" href="https://lists.launchpad.net/ubuntu-us-wisconsin/">Mailing list</a> - Team coordination</li>
-                    <li><a style="color: blue;" href="https://www.reddit.com/r/ubuntuwisconsinloco">Subreddit</a> - Non-LoCo-specific content for the LoCo, such as a trick that someone found, or a discussion about a piece of default software in Ubuntu</li>
-                </ul>
-            </p>
-            <h2>
-                Are these approved by the LoCo Council?
-            </h2>
-            <p>
-                At the time of writing this, we are still waiting for feedback from the LoCo Council to see if our resources can be officially recognized, in order to be able to become verified.
-            </p>
-            <h2>
-                What other people help with the LoCo?
-            </h2>
-            <p>
-                <b>Alex Dueppen (adueppen)</b> - Head of Graphic Design, Head of Reddit Operations.
-                The LoCo would be a lot different if it weren't for his many hours of dedication to this team.
-                <br />
-                <b>Anthony Hook (h00k)</b> - Former LoCo Leader.
-                Anthony has been essential for helping the LoCo start up again.
-                Also, he spent a lot of valuable time with this LoCo before it was in the possession of Simon Quigley.
-                This LoCo would most likely not exist without his help.
-                <br />
-                <b>Mike Putnam (mikeputnam)</b> - LUG Coordinator.
-                Mike makes sure that scheduling is fine, and that it doesn't conflict with any other Linux events around the state.
-                He also fills in for Simon when Simon isn't available (which is rare).
-                He has provided a lot of valuable help to this team.
-            </p>
-        ]]>
-        </description>
-        <pubDate>Sat, 16 Jan 2016 03:00:00 GMT</pubDate>
-        <author>sqawesome99@gmail.com (Simon Quigley)</author>
-    </item>
+        <title>Ubuntu US Wisconsin LoCo Team Blog</title>
+        <link>http://ubuntu-wisconsin.org/blog/</link>
+        <description>The official blog for the Ubuntu US Wisconsin LoCo Team</description>
+        <item>
+            <title>Tour of our Wiki Page</title>
+            <link>http://ubuntu-wisconsin.org/blog/2016/01/20/</link>
+            <description>
+                <![CDATA[
+                    <h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        We have set up a wiki page for existing members to use as a resource for doing LoCo related tasks.
+                        This blog post is a walkthrough of the wiki page, and the resources we have in place.
+                    </p>
+                    <h2>
+                        <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam">The main page</a>
+                    </h2>
+                    <p>
+                        On the very top of the page are details about our next IRC and monthly meetings.
+                        We also have other pages listed that I will describe in a bit.
+                        In addition, we have brief information about our Local Community team.
+                        <br />
+                        <br />
+                        After the top part, we have the <b>Joining</b>, <b>Events</b>, and <b>Meetings</b> headers.
+                        Under the <b>Joining</b> header, we have a link to our NewMemberOrientation page, which I will describe in a bit.
+                        Under the <b>Events</b> header, we have a link to the LoCo Portal that has our upcoming events.
+                        At the time of writing this, we don't have any upcoming events, but once we do, it will go on the wiki page under his header.
+                        Under the <b>Meetings</b> header, we have a link to the LoCo Portal that has our upcoming meetings.
+                        A blog post will be written describing our meetings in the future, although if you would like to check that out and discover yourself, go ahead.
+                        <br />
+                        <br />
+                        The final header on the wiki page is <b>Communication</b>.
+                        This section has some useful resources that are occasionally used by our members.
+                        It will get a little revamping after Alex finishes making some orange badges for Reddit and such.
+                    </p>
+                    <h2>
+                        <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/MeetingAgendas">MeetingAgendas</a>
+                    </h2>
+                    <p>
+                        On this page, we have Meeting Agendas.
+                        Every monthly meeting we have, the meeting chair (usually myself) updates this page.
+                        It just has the agendas, which will be explained in a future blog post.
+                        Also, whenever we have a successful IRC meeting, the IRC logs go here.
+                    </p>
+                    <h2>
+                        <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/NewMemberOrientation">NewMemberOrientation</a>
+                    </h2>
+                    <p>
+                        This page is our (lowercase c) canonical resource for getting people started with our team.
+                        It provides all of the information needed to be considered an official member.
+                        It does need a bit of revising to strengthen the language and clarity (if you, the reader, feel inclined to take a look, by all means, go ahead), but this is the most solid resource we have.
+                    </p>
+                    <h2>
+                        <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/QuickStart">QuickStart</a>
+                    </h2>
+                    <p>
+                        This is currently a bare page, with a lot of work needed.
+                        It is a huge concept I am working on with Alex.
+                        More information to come.
+                    </p>
+                    <h2>
+                        <a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam/TeamReports">TeamReports</a>
+                    </h2>
+                    <p>
+                        This page is out of date.
+                        We plan on keeping our team reports here, but since we haven't really had any major meetings besides the monthly meeting and some IRC meetings that more than just 2 people attend, it isn't large enough yet to make a good team report.
+                        This will change in the future.
+                    </p>
+                    <br />
+                    <p>
+                        This concludes the walkthrough of our wiki page.
+                        If you have any questions/comments/concerns about this article or the wiki page, please contact tsimonq2 on Freenode or stop by #ubuntu-us-wi.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Thu, 21 Jan 2016 01:00:00 GMT</pubDate>
+            <author>sqawesome99@gmail.com (Simon Quigley)</author>
+        </item>
+        <item>
+            <title>About the Ubuntu US Wisconsin Local Community Team</title>
+            <link>http://ubuntu-wisconsin.org/blog/2016/01/15/</link>
+            <description>
+                <![CDATA[
+                    <h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        This first blog post on behalf of the Ubuntu US Wisconsin LoCo Team is to explain some items about the team in general.
+                        If you have any questions/comments/concerns about any of this, please contact tsimonq2 on IRC or stop by #ubuntu-us-wi on Freenode.
+                    </p>
+                    <h2>
+                        Who leads the LoCo?
+                    </h2>
+                    <p>
+                        Simon Quigley is the main coordinator, contact, and facilitative leader for the team.
+                        Until the team grows a bit, he does the planning and execution of meetings and events for the team.
+                        He was appointed the position from Anthony Hook, the previous leader, in mid-November 2015.
+                    </p>
+                    <h2>
+                        How many active members do you have?
+                    </h2>
+                    <p>
+                        In Launchpad, we have 21 members.
+                        We have about 5-10 members who are very active, and a couple more who occasionally respond to threads on our Mailing List.
+                        When a new member joins, they get a one year term, and then they have to renew. This helps eliminate anyone who isn't active any more.
+                        A lot of the members were already there since the last bit of activity in 2012, but have stuck around.
+                    </p>
+                    <h2>
+                        What do you use for a mailing list?
+                    </h2>
+                    <p>
+                        Instead of using Ubuntu Mailing Lists, we use the Launchpad mailing list system.
+                        This makes it much easier for new members to join the mailing list after joining the LoCo.
+                        It is also easy to find if you can find our Launchpad page link.
+                    </p>
+                    <h2>
+                        Are you on the Ubuntu Forums?
+                    </h2>
+                    <p>
+                        We had a forum, but we voted to no longer use it due to the inactivity.
+                        Since we have a few Reddit experts in our team, we decided to use Reddit in place of that.
+                        Our subreddit is <a style="color: blue;" href="https://www.reddit.com/r/ubuntuwisconsinloco">/r/ubuntuwisconsinloco</a>.
+                    </p>
+                    <h2>
+                        What other resources do you have established?
+                    </h2>
+                    <p>
+                        <ul>
+                            <li><a style="color: blue;" href="https://wiki.ubuntu.com/WisconsinTeam">Wiki Page</a> - meant as a base for already existing members</li>
+                            <li><a style="color: blue;" href="https://launchpad.net/~ubuntu-us-wisconsin">Launchpad</a></li>
+                            <li><a style="color: blue;" href="http://ubuntu-wisconsin.org/">ubuntu-wisconsin.org</a> - The site you are currently on, a major work in progress, blog post to come</li>
+                            <li><a style="color: blue;" href="https://lists.launchpad.net/ubuntu-us-wisconsin/">Mailing list</a> - Team coordination</li>
+                            <li><a style="color: blue;" href="https://www.reddit.com/r/ubuntuwisconsinloco">Subreddit</a> - Non-LoCo-specific content for the LoCo, such as a trick that someone found, or a discussion about a piece of default software in Ubuntu</li>
+                        </ul>
+                    </p>
+                    <h2>
+                        Are these approved by the LoCo Council?
+                    </h2>
+                    <p>
+                        At the time of writing this, we are still waiting for feedback from the LoCo Council to see if our resources can be officially recognized, in order to be able to become verified.
+                    </p>
+                    <h2>
+                        What other people help with the LoCo?
+                    </h2>
+                    <p>
+                        <b>Alex Dueppen (adueppen)</b> - Head of Graphic Design, Head of Reddit Operations.
+                        The LoCo would be a lot different if it weren't for his many hours of dedication to this team.
+                        <br />
+                        <b>Anthony Hook (h00k)</b> - Former LoCo Leader.
+                        Anthony has been essential for helping the LoCo start up again.
+                        Also, he spent a lot of valuable time with this LoCo before it was in the possession of Simon Quigley.
+                        This LoCo would most likely not exist without his help.
+                        <br />
+                        <b>Mike Putnam (mikeputnam)</b> - LUG Coordinator.
+                        Mike makes sure that scheduling is fine, and that it doesn't conflict with any other Linux events around the state.
+                        He also fills in for Simon when Simon isn't available (which is rare).
+                        He has provided a lot of valuable help to this team.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sat, 16 Jan 2016 03:00:00 GMT</pubDate>
+            <author>sqawesome99@gmail.com (Simon Quigley)</author>
+        </item>
     </channel>
