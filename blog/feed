@@ -6,6 +6,77 @@
         <description>The official blog for the Ubuntu US Wisconsin LoCo Team</description>
         <atom:link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml" />
         <item>
+            <title>About our Mailing List</title>
+            <link>http://ubuntu-wisconsin.org/blog/2016/01/27/</link>
+            <guid>http://ubuntu-wisconsin.org/blog/2016/01/27/</guid>
+            <description>
+                <![CDATA[
+                    <h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        Instead of having our mailing list through Ubuntu Lists, we have it through Launchpad.
+                        There are a lot of advantages to having this setup, but before I outline those, I would like to explain what goes on the mailing list.
+                        Every week, I forward the Ubuntu Weekly Newsletter on to the mailing list with a quick little comment about our recent blog post like I am probably going to do soon.
+                        I also forward the Kernel Team newsletter on, although before I started doing this, I sent an email to the list explaining this. This might change in the future.
+                        Along with the newsletters, I send details about our next meeting 2 weeks and 24 hours(to clear up confusion, two seperate emails, one 2 weeks before and one 24 hours before) before our next monthly meeting describing the details such as the agenda and general encouragement to participate.
+                        I will make a blog post next week describing our monthly meeting process, because next week is when I do the prep either way.
+                        Also, if members have questions about the LoCo, this is the place to ask them and get feedback, such as the planning for our Xenial Xerus release party.
+                    </p>
+                    <br />
+                    <p>
+                        Here are the advantages and disadvantages of using Launchpad for our mailing list:
+                    </p>
+                    <br />
+                    <p>
+                        <b>Advantages:</b>
+                    </p>
+                    <ul>
+                        <li>
+                            When a new member joins the team, they already have a Launchpad account, and it is easy to subscribe
+                        </li>
+                        <li>
+                            When a new member joins the Launchpad team, they can subscribe to the mailing list while joining
+                        </li>
+                        <li>
+                            The archives are organized well, with many useful features for viewing them
+                        </li>
+                        <li>
+                            I can see who is subscribed and how many members, with links to their Launchpad pages
+                        </li>
+                        <li>
+                            I can easily view scrubbed HTML attachments
+                        </li>
+                    </ul>
+                    <p>
+                        <b>Disadvantages:</b>
+                    </p>
+                    <ul>
+                        <li>
+                            It is not on an *.ubuntu.com domain
+                        </li>
+                        <li>
+                            The mailing list archives can be a bit slow to show up on the page for this, although it has gotten better and it is being addressed
+                        </li>
+                        <li>
+                            This isn't necessarily traditional for a LoCo to do, as far as I know
+                        </li>
+                        <li>
+                            It isn't approved by the LoCo Council (yet)
+                        </li>
+                    </ul>
+                    <p>
+                        Although it has it's downsides, using Launchpad for our mailing list has been very smooth for us and the advantages outweigh the advantages, in my honest opinion.
+                        So we will continue to use it.
+                    </p>
+                    <br />
+                    <p>
+                        This concludes the blog post about our wiki page. If you have any questions/comments/concerns about this blog post or the mailing list, please contact Simon Quigley or stop by #ubuntu-us-wi on Freenode.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 27 Jan 2016 20:00:00 GMT</pubDate>
+            <author>sqawesome99@gmail.com (Simon Quigley)</author>
+        </item>
+        <item>
             <title>Tour of our Wiki Page</title>
             <link>http://ubuntu-wisconsin.org/blog/2016/01/20/</link>
             <guid>http://ubuntu-wisconsin.org/blog/2016/01/20/</guid>
